@@ -1,2 +1,4 @@
-# P1HW1
-CTI 110 Repository
+# CTI 110 Repository
+Created for P1HW1
+Horton
+4-3-23
