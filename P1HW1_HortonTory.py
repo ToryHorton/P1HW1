@@ -1,9 +1,9 @@
 
-#This program calculates and displays travel expenses
+# This program calculates and displays travel expenses
 
-#4-6-2023
+# 4-6-2023
 
-#CTI-110 P1HW1 - Travel Expense
+# CTI-110 P1HW1 - Travel Expense
 
 # Tory Horton
 
